@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tarea6</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    
+    <string name="busqueda">Busqueda</string>
+    <string name="texto1">Traductor Español-Inglés de animales</string>
+    <string name="texto2">Pulsa el botón para buscar</string>
+    
+    <string name="search_label">Tarea Buscar</string>
+    <string name="search_hint">Introduzca animal</string>
+
+</resources>

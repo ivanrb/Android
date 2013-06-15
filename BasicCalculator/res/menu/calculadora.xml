@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/borrar"
+        android:orderInCategory="1"
+        android:title="@string/borrar"
+        android:icon="@drawable/borrar"/>
+    
+    <item android:id="@+id/acercaDe"
+        android:orderInCategory="2"
+        android:title="@string/acerca"
+        android:icon="@drawable/nosotros"></item>
+
+</menu>

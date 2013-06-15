@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tarea4</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    
+    <string name="rotar">Rotar imagen</string>
+    <string name="agrupar">Agrupar</string>
+    <string name="animar">Animar texto</string>
+    <string name="apagar">Apagar imagen</string>
+    
+    <string name="texto">Tarea 4</string>
+
+</resources>

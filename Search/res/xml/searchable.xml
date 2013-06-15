@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<searchable xmlns:android="http://schemas.android.com/apk/res/android"
+     android:label="@string/search_label"
+     android:hint="@string/search_hint" 
+     android:voiceSearchMode="showVoiceSearchButton|launchRecognizer"
+     android:includeInGlobalSearch="true"
+     android:searchSuggestAuthority="com.example.Sugerencias"
+     android:searchSuggestSelection="word MATCH ?">
+</searchable>

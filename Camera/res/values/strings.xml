@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tarea7</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="flashOn">Encender Flash</string>
+    <string name="flashOff">Apagar Flash</string>
+
+    <string name="colorOn">Color</string>
+    <string name="colorOff">Blanco y negro</string>
+
+</resources>
